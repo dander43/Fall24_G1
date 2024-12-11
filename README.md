@@ -282,3 +282,5 @@ const styles = StyleSheet.create({
 
 
 (need AI APi) - Daylon Anderson
+
+

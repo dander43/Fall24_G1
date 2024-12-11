@@ -283,4 +283,14 @@ const styles = StyleSheet.create({
 
 (need AI APi) - Daylon Anderson
 
+First test of program output:
+Study group 'Math Study Group' created.
+Study group 'Physics Study Group' created.
+Study session added for 2024-11-01 at 10:00 AM.
+Study session added for 2024-11-03 at 2:00 PM.
+Study Group: Math Study Group | 1 sessions scheduled.
+Study Group: Physics Study Group | 1 sessions scheduled.
+Study Sessions for Math Study Group:
+2024-11-01 at 10:00 AM | Topics: Calculus, Algebra | Members: Alice, Bob
+
 
